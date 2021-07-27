@@ -138,6 +138,13 @@ figure img
   margin-right: auto;
 }
 
+@media screen and (max-width: 760px) {
+  figure img
+  {
+    width: 150px;
+  }
+}
+
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   border-radius: 5px;
