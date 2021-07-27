@@ -166,6 +166,7 @@ section h1
   text-align: center;
   margin: 30px 20%;
   background-color: #3d3b3c;
+  cursor: pointer;
 }
 
 #kontak a
@@ -205,6 +206,7 @@ article img
   border-radius: 30px;
   margin-top: 10px;
   width: 150px;
+  cursor: pointer;
 }
 
 .demo a
